@@ -1,10 +1,7 @@
 US National Weather Service Storm Data: Economical and Personal Costs Analysis
 ========================================================
 
-<p>
-I'm copying an RPub publication from my fellow Coursera student. Here's the full article: http://rpubs.com/PedroCebrian/RepResPeer2
-For sake of brevity, I'm only including the code. Read through the original article if you need further information.
-</p>
+
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(plyr)
